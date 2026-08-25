@@ -96,7 +96,6 @@ The main goal is to replace **manual registration, paper-based attendance, and s
 
 * XAMPP
 * phpMyAdmin
-* Visual Studio Code
 
 ---
 
