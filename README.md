@@ -522,24 +522,6 @@ The system should include:
 
 ---
 
-# 🔮 Future Enhancements
-
-- 📧 Email notifications
-- 📱 Android / iOS mobile application
-- 🔔 Real-time event notifications
-- 📊 Advanced admin analytics
-- 📈 Event participation reports
-- ☁️ Cloud deployment
-- 🔐 Two-factor authentication
-- 🤖 AI-based event recommendations
-- 🎓 Digital certificate generation
-- 📲 WhatsApp notifications
-- 📊 Advanced event analytics
-- 🔔 Push notifications
-- 📅 Calendar integration
-
----
-
 # 📚 Project Information
 
 | Category | Details |
