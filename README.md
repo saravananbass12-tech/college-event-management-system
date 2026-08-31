@@ -292,8 +292,9 @@ http://localhost/college-event-management-system/
 ---
 
 # 👨‍💼 Admin Workflow
-<p align="center">
-```text
+
+```
+text
 
 Admin Login
      │
@@ -309,7 +310,6 @@ Manage  Manage       Track
 Events  Students     Participation
 
 ```
-</p>
 ---
 
 # 📱 QR Attendance System
@@ -570,19 +570,6 @@ The system should include:
 HTML • CSS • JavaScript • Bootstrap
 PHP • MySQL 
 ```
-
-# 📌 GitHub Repository
-
-<p align="center">
-
-<a href="https://github.com/saravananbass12-tech/college-event-management-system">
-
-<strong>🔗 College Event Management System</strong>
-
-</a>
-
-</p>
-
 ---
 
 # 📄 License
