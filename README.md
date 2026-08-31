@@ -454,21 +454,21 @@ The following screenshots demonstrate the main modules and user interfaces of th
 
 <p align="center">
 
-<img src="screenshots/login.png" width="45%" alt="Login Page">
+<img src="screenshot/login.png" width="45%" alt="Login Page">
 
-<img src="screenshots/register.png" width="45%" alt="Registration Page">
-
-<br><br>
-
-<img src="screenshots/admin.png" width="45%" alt="Admin Dashboard">
-
-<img src="screenshots/events.png" width="45%" alt="Event Management">
+<img src="screenshot/register.png" width="45%" alt="Registration Page">
 
 <br><br>
 
-<img src="screenshots/file.png" width="45%" alt="File Management">
+<img src="screenshot/admin.png" width="45%" alt="Admin Dashboard">
 
-<img src="screenshots/report.png" width="45%" alt="Reports">
+<img src="screenshot/events.png" width="45%" alt="Event Management">
+
+<br><br>
+
+<img src="screenshot/file.png" width="45%" alt="File Management">
+
+<img src="screenshot/report.png" width="45%" alt="Reports">
 
 </p>
 
