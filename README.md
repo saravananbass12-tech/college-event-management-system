@@ -1,4 +1,4 @@
-# 🎓 College Event Management System — 2026
+                # 🎓 College Event Management System — 2026
 
 <p align="center">
 
