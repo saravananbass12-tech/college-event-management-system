@@ -292,9 +292,9 @@ http://localhost/college-event-management-system/
 ---
 
 # 👨‍💼 Admin Workflow
-
-```text
 <p align="center">
+```text
+
 Admin Login
      │
      ▼
@@ -307,9 +307,9 @@ Events Students   Attendance
  ▼     ▼               ▼
 Manage  Manage       Track
 Events  Students     Participation
-</p>
-```
 
+```
+</p>
 ---
 
 # 📱 QR Attendance System
@@ -465,30 +465,6 @@ Attendance Stored
 
 ---
 
-# 🖥️ Screenshots Overview
-
-<p align="center">
-
-<img src="screenshot/login.png" width="45%" alt="Login Page">
-
-<img src="screenshot/register.png" width="45%" alt="Registration Page">
-
-<br><br>
-
-<img src="screenshot/admin.png" width="45%" alt="Admin Dashboard">
-
-<img src="screenshot/events.png" width="45%" alt="Event Management">
-
-<br><br>
-
-<img src="screenshot/file.png" width="45%" alt="File Management">
-
-<img src="screenshot/report.png" width="45%" alt="Reports">
-
-</p>
-
----
-
 # 🧪 Testing
 
 The application can be tested for:
@@ -592,22 +568,8 @@ The system should include:
 
 ```text
 HTML • CSS • JavaScript • Bootstrap
-PHP • MySQL • Python
-Power BI • Data Analytics
+PHP • MySQL 
 ```
-
-### 💡 Areas of Interest
-
-- Web Application Development
-- Database Management
-- PHP & MySQL Development
-- Python Development
-- Data Analytics
-- Power BI
-- Artificial Intelligence
-- Emerging Technologies
-
----
 
 # 📌 GitHub Repository
 
