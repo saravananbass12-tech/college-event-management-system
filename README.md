@@ -131,7 +131,7 @@ college-event-management-system/
 │   ├── js/
 │   └── images/
 │
-├── screenshots/
+├── screenshot/
 │   ├── admin.png
 │   ├── events.png
 │   ├── file.png
@@ -158,7 +158,7 @@ college-event-management-system/
 
 Install **XAMPP** on your computer.
 
-Start the following services:
+Start:
 
 ```text
 Apache
@@ -183,7 +183,7 @@ Copy the project folder into:
 C:\xampp\htdocs\
 ```
 
-The final location should be:
+Final location:
 
 ```text
 C:\xampp\htdocs\college-event-management-system\
@@ -221,7 +221,7 @@ Open:
 includes/db.php
 ```
 
-Use your MySQL database configuration:
+Use:
 
 ```php
 <?php
@@ -231,7 +231,12 @@ $user = "root";
 $password = "";
 $database = "college_event_management";
 
-$conn = new mysqli($host, $user, $password, $database);
+$conn = new mysqli(
+    $host,
+    $user,
+    $password,
+    $database
+);
 
 if ($conn->connect_error) {
     die("Database Connection Failed: " . $conn->connect_error);
@@ -289,6 +294,7 @@ http://localhost/college-event-management-system/
 # 👨‍💼 Admin Workflow
 
 ```text
+<p align="center">
 Admin Login
      │
      ▼
@@ -301,6 +307,7 @@ Events Students   Attendance
  ▼     ▼               ▼
 Manage  Manage       Track
 Events  Students     Participation
+</p>
 ```
 
 ---
@@ -398,14 +405,12 @@ Attendance Stored
 
 # 📸 Screenshots
 
-The following screenshots demonstrate the main modules and user interfaces of the **College Event Management System**.
-
----
-
 ## 🔐 Login Page
 
 <p align="center">
-  <img src="screenshots/login.png" alt="Login Page" width="850">
+
+<img src="screenshot/login.png" alt="Login Page" width="900">
+
 </p>
 
 ---
@@ -413,7 +418,9 @@ The following screenshots demonstrate the main modules and user interfaces of th
 ## 📝 Student Registration
 
 <p align="center">
-  <img src="screenshots/register.png" alt="Student Registration Page" width="850">
+
+<img src="screenshot/register.png" alt="Student Registration Page" width="900">
+
 </p>
 
 ---
@@ -421,7 +428,9 @@ The following screenshots demonstrate the main modules and user interfaces of th
 ## 👨‍💼 Admin Dashboard
 
 <p align="center">
-  <img src="screenshots/admin.png" alt="Admin Dashboard" width="850">
+
+<img src="screenshot/admin.png" alt="Admin Dashboard" width="900">
+
 </p>
 
 ---
@@ -429,7 +438,9 @@ The following screenshots demonstrate the main modules and user interfaces of th
 ## 📅 Event Management
 
 <p align="center">
-  <img src="screenshots/events.png" alt="Event Management Page" width="850">
+
+<img src="screenshot/events.png" alt="Event Management Page" width="900">
+
 </p>
 
 ---
@@ -437,7 +448,9 @@ The following screenshots demonstrate the main modules and user interfaces of th
 ## 📁 File / Document Management
 
 <p align="center">
-  <img src="screenshots/file.png" alt="File Management Page" width="850">
+
+<img src="screenshot/file.png" alt="File Management Page" width="900">
+
 </p>
 
 ---
@@ -445,7 +458,9 @@ The following screenshots demonstrate the main modules and user interfaces of th
 ## 📊 Reports & Attendance
 
 <p align="center">
-  <img src="screenshots/report.png" alt="Reports and Attendance Page" width="850">
+
+<img src="screenshot/report.png" alt="Reports and Attendance Page" width="900">
+
 </p>
 
 ---
@@ -476,22 +491,20 @@ The following screenshots demonstrate the main modules and user interfaces of th
 
 # 🧪 Testing
 
-The application can be tested for the following functions:
+The application can be tested for:
 
-| Test Case | Description |
-|---|---|
-| 🔐 Login | Verify user authentication |
-| 📝 Registration | Verify student registration |
-| 📅 Event Creation | Verify admin event creation |
-| ✏️ Event Update | Verify event editing |
-| 🗑️ Event Delete | Verify event deletion |
-| 🎟️ Event Registration | Verify student event registration |
-| 📱 QR Generation | Verify QR code generation |
-| 📷 QR Scanning | Verify QR attendance scanning |
-| 📊 Attendance | Verify attendance recording |
-| 📁 File Upload | Verify document upload |
-| 🗄️ Database | Verify MySQL operations |
-| 👨‍💼 Admin | Verify administrator functions |
+- 🔐 Login validation
+- 📝 Student registration
+- 📅 Event creation
+- ✏️ Event update
+- 🗑️ Event deletion
+- 🎟️ Event registration
+- 📱 QR code generation
+- 📷 QR code scanning
+- 📊 Attendance recording
+- 📁 Document upload
+- 🗄️ Database operations
+- 👨‍💼 Admin functions
 
 ---
 
@@ -534,8 +547,6 @@ The system should include:
 ---
 
 # 🔮 Future Enhancements
-
-Future versions of the system can include:
 
 - 📧 Email notifications
 - 📱 Android / iOS mobile application
@@ -600,9 +611,15 @@ Power BI • Data Analytics
 
 # 📌 GitHub Repository
 
-```text
-https://github.com/saravananbass12-tech/college-event-management-system
-```
+<p align="center">
+
+<a href="https://github.com/saravananbass12-tech/college-event-management-system">
+
+<strong>🔗 College Event Management System</strong>
+
+</a>
+
+</p>
 
 ---
 
