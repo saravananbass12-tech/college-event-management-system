@@ -7,7 +7,14 @@
 A modern web-based platform for managing **college events, student registrations, event participation, and QR-code attendance** through a centralized digital system.
 
 </p>
+# ⚙️ Installation & Setup
 
+## 🌐 Live Demo
+
+You can access the live application at:
+🔗 **[https://saro-sarav.free.nf](https://saro-sarav.free.nf)**
+
+---
 <p align="center">
 
 ![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=for-the-badge&logo=php&logoColor=white)
